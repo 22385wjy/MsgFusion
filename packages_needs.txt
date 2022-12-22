@@ -1,0 +1,13 @@
+torch~=1.7.1+cu110
+python~=3.7.9
+matplotlib~=3.4.3
+numpy~=1.19.4
+glob~=2.69.1
+imageio~=2.16.0
+natsort~=7.1.0
+pytorch_msssim~=0.2.1
+pillow~=8.0.1
+scipy~=1.5.3
+opencv~=3.4.2
+tensorboardX~=2.2
+skimage~=0.18.1
